@@ -4,7 +4,7 @@ using System.Collections.Specialized;
 using System.Net;
 using System.Text;
 
-namespace gitHub
+namespace exampleApp
 {
     internal class checkClass
     {
