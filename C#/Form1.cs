@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace gitHub
+namespace exampleApp
 {
     public partial class Form1 : Form
     {
